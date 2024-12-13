@@ -53,6 +53,6 @@ Alternatively, you can use any other RTMP-capable player to access the stream at
 
 ## Notes
 
-- **Ports**: Make sure that the ports (80, 1935, 8080) are available on your machine and not being used by other services!
+- **Ports**: Make sure that the ports (80, 1935, 8080) are available on your machine and not being used by other services.
 - **Testing**: The configuration has been tested with WAV and MP4 files. Results with other formats may vary.
 - **Customization**: You can adjust the NGINX configuration or `Dockerfile` to suit more specific needs, such as adding transcoding or different input formats.
