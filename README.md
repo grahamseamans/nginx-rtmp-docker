@@ -1,7 +1,7 @@
 
 # Simple RTMP Streaming Server with Docker
 
-This setup provides a straightforward way to get an RTMP streaming server running using Docker. While it’s not optimized for production, it works well for basic streaming tasks.
+This setup provides a straightforward way to get a a RTMP streaming server running using Docker and nginx.
 
 ## Getting Started
 
